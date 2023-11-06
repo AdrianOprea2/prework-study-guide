@@ -4,6 +4,7 @@ for (var x = 0; x < topics.length; x++) {
 }
 
 
+
 /*   
 if (topic === 'HTML') {
   console.log("Let's study HTML!");
